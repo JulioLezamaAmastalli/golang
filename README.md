@@ -18,4 +18,4 @@ Chisnall D., "The Go Programming Language", Addison - Wesley, 2012.
 
 Prasertsang A. and Pradubsuwun D., "Formal Verification of Concurrency in Go", International Joint Conference on Computer Science and Software Engineering (JCSSE), 2016.
 
-Prabhakar R. and Kumar R., "Concurrent Programming in Go", http://www.golang.org, 2011
+Prabhakar R. and Kumar R., "Concurrent Programming in Go", http://www.golang.org, 2011.
